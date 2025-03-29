@@ -21,7 +21,13 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+#Mis-trabajos .image-left {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+#Mis-trabajos .image-center {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
