@@ -1,7 +1,15 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
+/* imagen de marca personal */
+.logo-image{
+  width: 130px;
+  height: auto
+}
+/* modificación de color de fondo de barra de navegación */
+.custom-navbar{
+  background-color: #737373 !important;
+}
 /* Hero Section */
 
 #Hero-Section {
