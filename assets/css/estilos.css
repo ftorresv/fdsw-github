@@ -27,7 +27,9 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+.custom-trabajos{
+  background-color: #FFB76B !important;
+}
 /* Contacto */
 
 #Contacto form label {
@@ -44,4 +46,8 @@ body {
     width: 100px;
   }
 
+}
+/* modificación color footer */
+.custom-footer{
+  background-color: #737373 !important;
 }
